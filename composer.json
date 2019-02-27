@@ -1,21 +1,20 @@
 {
-    "name": "joglomedia/ibanking",
+    "name": "charlieuki/ibanking",
     "type": "library",
     "description": "Internet Banking PHP 5.6+ library",
     "keywords": ["ibank", "ibanking", "internet banking", "bca", "bni", "mandiri", "cek mutasi", "payment gateway"],
-    "homepage": "https://github.com/joglomedia/ibanking",
+    "homepage": "https://github.com/charlieuki/ibanking",
     "license": "GPL-2",
     "authors": [
         {
-            "name": "Edi Septriyanto",
-            "email": "me@masedi.net",
-            "homepage": "http://masedi.net",
+            "name": "Charlie",
+            "email": "charlie@usahakreatif.co.id",
             "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/joglomedia/ibanking/issues",
-        "source": "https://github.com/joglomedia/ibanking"
+        "issues": "https://github.com/charlieuki/ibanking/issues",
+        "source": "https://github.com/charlieuki/ibanking"
     },
     "minimum-stability": "dev",
     "require": {
