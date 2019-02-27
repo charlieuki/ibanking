@@ -12,7 +12,7 @@ namespace IBanking\IBParser;
 use IBanking\Utils\HttpRequest as HttpRequest;
 use IBanking\Utils\HttpHelper as HttpHelper;
 use IBanking\Utils\HtmlParser as HtmlParser;
-use IBanking\Utils\Function as Function;
+use IBanking\Utils\Functions as CustomFunctions;
 
 /**
  * Sample IBParser class
