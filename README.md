@@ -16,7 +16,7 @@ Add _ibanking_ library in to your composer.json or create a new composer.json fi
 ```js
 {
     "require": {
-        "joglomedia/ibanking": "dev-master"
+        "charlieuki/ibanking": "dev-master"
     }
 }
 ```
@@ -42,8 +42,6 @@ The tests directory contains an example bootstrap file.
 
 ```php
 <?php
-namespace MasEDI\CekMutasiDemo
-
 use IBanking\IBanking as IBanking;
 use IBanking\IBParser\SampleBankParser as SBParser;
 
@@ -79,7 +77,4 @@ For some very simple examples go to the _samples_ directory and have a look at t
 ## Contribution
 Please send your PR on the Github repository to help improve this script.
 
-## DONATION
-**[Buy Me a Bottle of Milk](https://paypal.me/masedi)**
-
-(c) 2017
+(c) 2019
